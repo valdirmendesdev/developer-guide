@@ -6,6 +6,6 @@ Git is a free and open source distributed version control system designed to han
 
 ## To Learn Online
 
-https://learngitbranching.js.org/ 
-
-https://git-school.github.io/visualizing-git/
+* https://learngitbranching.js.org/ 
+* https://git-school.github.io/visualizing-git/
+* https://www.atlassian.com/git/tutorials
