@@ -3,3 +3,4 @@
 
 # Find Tutorials and Courses
 * https://hackr.io
+* https://egghead.io
